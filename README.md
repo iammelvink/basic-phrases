@@ -1,10 +1,10 @@
 # Android App: Using Java
 
-## Repository for my Basic Phrases, English to Spanish translator app
+## Repository for my Basic Phrases, English to Spanish translator Android app
 
 ![Basic Phrases English Spanish](basicphrases_english_spanish.gif)
 
-Find out how to build a simple Basic Phrases app. Author, Melvin Kisten tackles tags, working with images and the MediaPlayer. 
+Find out how to build a simple Basic Phrases app. Author, Melvin Kisten tackles tags, working with images and a MediaPlayer. 
 
 ## Instructions
 1. Make sure you have these installed

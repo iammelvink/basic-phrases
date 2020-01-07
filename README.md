@@ -19,4 +19,4 @@ Find out how to build a simple Basic Phrases app. Author Melvin Kisten tackles T
 1. Download the app from the Google Play Store by following this link: [Basic Phrases](https://play.google.com/store/apps/details?id=com.iammelvink.basicphrases "Basic Phrases by Melvin Kisten")
 
 ## More Stuff
-Check out some of my other stuff on [WiiLearnTech](https://www.wiilearntech.com "WiiLearnTech Website"). Follow me on [Twitter](https://twitter.com/iammelvink "iammelvink") and [Instagram](https://www.instagram.com/iammelvink "iammelvink"), or check out my [YouTube channel](https://www.youtube.com/channel/UCwMGEkyU2QOqEEKJ1E5pe7w "WiiLearnTech YouTube").
+Check out some of my other stuff on [iammelvink](https://iammelvink.github.io/ "iammelvink Portfolio Website"). Follow me on [Twitter](https://twitter.com/iammelvink "iammelvink") and [Instagram](https://www.instagram.com/iammelvink "iammelvink"), or check out my [YouTube channel](https://www.youtube.com/channel/UCwMGEkyU2QOqEEKJ1E5pe7w "WiiLearnTech YouTube").

@@ -8,7 +8,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity 
+        <activity
             android:name="com.iammelvink.basicphrases.MainActivity"
             android:exported="true"> <!-- This line explicitly sets exported attribute to true -->
             <intent-filter>
